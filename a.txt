@@ -1,2 +1,6 @@
 ddddddddfdhelloddddddddddd
+<<<<<<< HEAD
 hello world
+=======
+hello233332
+>>>>>>> dev
