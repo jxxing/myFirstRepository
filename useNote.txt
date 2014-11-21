@@ -8,6 +8,8 @@ git reset --soft HEAD^
 git reset HEAD a.txt
 git checkout --a.txt
 2¡¢
+git reset --hard 343434 tuihuidao
+
 git log 
 git reflog
 gir diff a.txt
