@@ -1,0 +1,13 @@
+1¡¢
+git reset --hard HEAD^
+=
+git reset HEAD^
+git checkout -- a.txt
+=
+git reset --soft HEAD^
+git reset HEAD a.txt
+git checkout --a.txt
+2¡¢
+git log 
+git reflog
+gir diff a.txt
